@@ -1,0 +1,2 @@
+# GoruntuIsleme
+Ödevlerim
