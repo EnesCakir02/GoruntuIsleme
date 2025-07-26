@@ -1,1 +1,1 @@
-.
+Görüntü işleme dersinin projeleri
